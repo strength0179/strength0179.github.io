@@ -1,11 +1,11 @@
 {
-    "name": "janhu_m_inder",
-    "short_name": "janhu_m_inder",
+    "name": "knights_tale",
+    "short_name": "knights_tale",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Global Gamer Challenge 2024",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
