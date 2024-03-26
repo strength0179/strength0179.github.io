@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "ce34af7f6d4435114a1ebcf790123eed",
-"index.html": "b6e79f0f39961625e3cf1ef44f936b6d",
-"/": "b6e79f0f39961625e3cf1ef44f936b6d",
-"main.dart.js": "4a7bd1bfb6b098cd68adf1c108fa1b67",
+const RESOURCES = {"version.json": "cdaa23e236201cbd3f44e8c5e0418618",
+"index.html": "10796aaec49d7bc0536d21a9348fd612",
+"/": "10796aaec49d7bc0536d21a9348fd612",
+"main.dart.js": "43578ab00c092b47c86614262d1a6ec3",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,7 +15,7 @@ const RESOURCES = {"version.json": "ce34af7f6d4435114a1ebcf790123eed",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "0afd92a870b6a18b8ece88faf933926a",
 "assets/AssetManifest.json": "fa80004779d9d1047341aee75642231f",
-"assets/NOTICES": "1f6a4ad67b71745abc4eabcdd1f875fc",
+"assets/NOTICES": "e5770f533884f3b613a4cfe254f835c5",
 "assets/img/knight_in_bus.jpg": "8e0526d116948f6c4bf5b3f842066c8a",
 "assets/img/cat_march.jpg": "ff9c17b6653decffcab927a5083c0727",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
