@@ -70751,7 +70751,7 @@ $S:448}
 A.Gi.prototype={
 R(a){return new A.vL(B.Jp,"Knight's tale",A.as6(null,A.azC(B.P,B.F1),!0),null)}}
 A.lj.prototype={
-PR(){return this.c+" 1.0.25"},
+PR(){return this.c+" 1.0.26"},
 av(){var s=null,r=A.Dn(s,s,s,s,s,s,s,s)
 $.ba().e.push(new A.dg(0,0,0))
 return new A.Nm(r,new A.tE(s),A.iP("",s),B.n)}}
@@ -71279,7 +71279,7 @@ while(true)switch(s){case 0:o=t.CY
 n=A.w(t.A7,o)
 m=A.a([],t.q_)
 s=3
-return A.P(new A.a66().rB("AIzaSyA2tQbNYT8aLTg1gVVrHfuHHXcYxEt9JBo",new A.lr(a,b),new A.lr(c,d),B.Op),$async$tu)
+return A.P(new A.a66().rB("AIzaSyAR0N3UfLqTW-pGIZXgoszk-DNhpKj7fvc",new A.lr(a,b),new A.lr(c,d),B.Op),$async$tu)
 case 3:l=f.b
 if(l.length!==0)B.b.M(l,new A.W3(m))
 p=new A.jP("poly")
